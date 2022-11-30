@@ -18,5 +18,8 @@ Here is the repository structure:
     ├── exercises
     └── project
 ```
+Elastic Beanstalk link :
+
+http://dev-env.eba-ugpjzipw.us-east-1.elasticbeanstalk.com/
 
 
